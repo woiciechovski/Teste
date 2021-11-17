@@ -1,4 +1,8 @@
 ```bash
+### Pré-requisitos
+PHP 7.4
+Composer
+
 # Clone este repositório
 $ git clone https://github.com/woiciechovski/Teste
 
